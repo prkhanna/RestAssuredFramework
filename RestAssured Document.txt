@@ -1,0 +1,14 @@
+when u get JDK problem while running with maven just make a configuration as runconfiguration and select JDk
+13 version correctly and make mvn clean install. It should work.
+
+we have used Junit version 4 hence I smoke segregating into smoke andregression there seems to problem
+workaround have been done while creating interface and using @catgerioes
+and also defining group in pom.xml.
+
+To run allure report from local we need to download Allure cli and install in machine and provide path in enviornment variables
+ and then open command prompt and run
+
+allure serve path of allure folder in our case 
+allure serve F:\RestAssured\RestFramework2\target\allure-results
+
+ 

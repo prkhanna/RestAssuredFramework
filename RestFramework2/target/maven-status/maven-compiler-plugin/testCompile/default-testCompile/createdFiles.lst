@@ -1,0 +1,6 @@
+qa\auto\rest\tests\CrudTest.class
+qa\auto\rest\tests\BaseTest.class
+qa\auto\rest\helper\FunctionLibrary.class
+qa\auto\rest\specs\SpecificationFactory.class
+qa\auto\rest\helper\RequestFactory.class
+qa\auto\rest\util\PropertyReader.class
